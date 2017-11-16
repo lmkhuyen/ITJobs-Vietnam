@@ -2,9 +2,6 @@
 * Compnay name
 * Website or something
 
-* Saigon, Vietnam
-* Remote / Full-time
-
 ## Location
 
 * Saigon, Vietnam
