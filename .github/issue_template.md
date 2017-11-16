@@ -1,3 +1,10 @@
+## Employer
+* Compnay name
+* Website or something
+
+* Saigon, Vietnam
+* Remote / Full-time
+
 ## Location
 
 * Saigon, Vietnam
@@ -24,4 +31,6 @@
 
 ### Contact
 
-khuyen.le-minh@jobseeker.vn
+* khuyen.le-minh@jobseeker.vn
+* skype
+* mobile
